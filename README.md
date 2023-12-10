@@ -19,3 +19,5 @@
  The project provided valuable insights into leadership, effective communication of technical findings to non-technical audiences, and the intricacies of time series forecasting.
 
  Feel free to explore the project and its findings in the repository. Your feedback and suggestions are welcomed!
+
+Note: Please download the html files to view the code, visualizations and models
